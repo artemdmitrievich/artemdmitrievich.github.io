@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Michroma&display=swap')
 
 .nav-link {
-    color: aquamarine;
+    color: white;
 }
 
 .navbar-nav .nav-link.active {
-    color: rgb(183, 173, 173);
+    color: aquamarine;
 }
 
 .navbar-brand img {

@@ -45,6 +45,14 @@ body {
     background: linear-gradient(270deg, #bee5f0 0%, #caffa3 100%);
 }
 
+.pricing_pricing {
+    color: aquamarine;
+}
+
+.home_price {
+    color: white;
+}
+
 .card a {
     text-decoration: none;
     color: black;
